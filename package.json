@@ -1,0 +1,12 @@
+{
+  "name": "dsl-test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "directories": {
+    "bin": "./bin"
+  },
+  "dependencies": {
+      "optimist": "~0.3.5"
+  }
+}
